@@ -1,0 +1,44 @@
+.titleBar {
+    -fx-background-color: #000000;
+    -fx-min-height: 89px;
+    -fx-max-height: 89px;
+    -fx-min-width: 375px;
+    -fx-max-width: 375px;
+}
+.chatArea {
+    -fx-background-color: #232323;
+    -fx-min-height: 655px;
+    -fx-max-height: 655px;
+    -fx-min-width: 375px;
+    -fx-max-width: 375px;
+    -fx-padding: 18px;
+    -fx-alignment: bottom-right;
+}
+.textInputArea {
+    -fx-min-width: 259px;
+    -fx-max-width: 259px;
+    -fx-min-height: 45px;
+    -fx-max-height: 45px;
+    -fx-border-color: transparent;
+    -fx-background-radius: 40px;
+    -fx-border-radius: 40px;
+    -fx-font-size: 16px;
+    -fx-background-color: #232323;
+}
+.sendButton, .mediaButton {
+    -fx-background-color: transparent;
+}
+.messageBox {
+    -fx-background-radius: 16px 16px 4px 16px;
+    -fx-background-color:  #B0B0B0;
+    -fx-font-size: 14px;
+    -fx-padding: 12px;
+}
+.inputBar {
+    -fx-background-color: #000000;
+    -fx-min-height: 68px;
+    -fx-max-height: 68px;
+    -fx-min-width: 375px;
+    -fx-max-width: 375px;
+    -fx-padding: 40px;
+}
